@@ -1,0 +1,24 @@
+Game Mechanics:
+
+
+Art Assets:
+	Graphics:
+		-Iguana Sea logo & variations
+		-Iguana Sea splash ccreeen(fullscreen/background)
+		-chanclazo UI 
+		 -textures
+		 -layout
+		 -scene transitions
+			-style(s?)
+			-color(s?)
+			-
+		 -FX
+	Sounds:
+		-Chanclazos
+		 - Wood
+		 - Concrete/wall
+		 - Concrete/floor
+		 - Glass
+		 - 
+		-
+		
