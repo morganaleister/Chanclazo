@@ -1,0 +1,53 @@
+Game Mechanics:
+	Main:Throw chanclas at kids
+		- Move?
+		- Aim
+		- Throw (charged?)
+		- Score?
+	Win Condition: ?
+	Loose Condition: ?
+	Aditional Objectives:
+		- Break/Dont break stuff?
+		- Hit / don't hit stuff/other things/beings???
+		- Find..??
+		- Scores.. ??
+
+Features:
+	Main: Zoom/slow-mo action camera on hit
+
+Art Assets:
+	Graphics:
+		-Iguana Sea logo & variations
+		-Iguana Sea splash ccreeen(fullscreen/background)
+		-chanclazo UI 
+		 -textures
+		 -layout
+		 -tree map
+		 -scene transitions
+			-style(s?)
+			-color(s?)
+			-
+		 -FX
+	Sounds:
+		-Chanclazos
+		 - Wood
+		 - Concrete/wall
+		 - Concrete/floor
+		 - Glass
+		 - Grass
+		 - Metal
+		-Footsteps
+		 - Wood
+		 - concrete
+		 - metal
+		 - shattered glass?
+		 - Grass
+		-Wall Bumps (material?-test-)
+		- 
+
+
+Fórmula para calcular progreso:
+Provisional:
+	Checkboxes w/this list
+Óptima: 
+	Re Investigar metodologías (E.Prieto) y desarrollar en Trello
