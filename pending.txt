@@ -1,5 +1,21 @@
 Game Mechanics:
+	Main:Throw chanclas at kids
+		- Move?
+		- Aim
+		- Throw (charged?)
+		- Score?
+		- Obstacles?
+	Win Condition: ?
+	Loose Condition: ?
+		- Death?
+	Aditional Objectives:
+		- Break/Dont break stuff?
+		- Hit / don't hit stuff/other things/beings???
+		- Find..??
+		- Scores.. ??
 
+Features:
+	Main: Zoom/slow-mo action camera on hit
 
 Art Assets:
 	Graphics:
@@ -8,6 +24,7 @@ Art Assets:
 		-chanclazo UI 
 		 -textures
 		 -layout
+		 -tree map
 		 -scene transitions
 			-style(s?)
 			-color(s?)
@@ -19,6 +36,20 @@ Art Assets:
 		 - Concrete/wall
 		 - Concrete/floor
 		 - Glass
-		 - 
-		-
-		
+		 - Grass
+		 - Metal
+		-Footsteps
+		 - Wood
+		 - concrete
+		 - metal
+		 - shattered glass?
+		 - Grass
+		-Wall Bumps (material?-test-)
+		- 
+
+
+Fórmula para calcular progreso:
+Provisional:
+	Checkboxes w/this list
+Óptima: 
+	Re Investigar metodologías (E.Prieto) y desarrollar en Trello
