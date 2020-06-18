@@ -4,8 +4,15 @@ Game Mechanics:
 		- Aim
 		- Throw (charged?)
 		- Score?
+<<<<<<< HEAD
 	Win Condition: ?
 	Loose Condition: ?
+=======
+		- Obstacles?
+	Win Condition: ?
+	Loose Condition: ?
+		- Death?
+>>>>>>> master
 	Aditional Objectives:
 		- Break/Dont break stuff?
 		- Hit / don't hit stuff/other things/beings???
@@ -17,7 +24,11 @@ Features:
 
 Art Assets:
 	Graphics:
+<<<<<<< HEAD
 		-Iguana Sea logo & variations
+=======
+		-
+>>>>>>> master
 		-Iguana Sea splash ccreeen(fullscreen/background)
 		-chanclazo UI 
 		 -textures
@@ -27,7 +38,18 @@ Art Assets:
 			-style(s?)
 			-color(s?)
 			-
+<<<<<<< HEAD
 		 -FX
+=======
+		 - FX
+		 - ShaderGraph
+		-3D
+		 - Mobiliario
+		 - persjs.
+		 - stuff
+		 - chanclas
+		 - 
+>>>>>>> master
 	Sounds:
 		-Chanclazos
 		 - Wood
