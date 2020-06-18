@@ -19,7 +19,7 @@ Features:
 
 Art Assets:
 	Graphics:
-		-Iguana Sea logo & variations
+		-
 		-Iguana Sea splash ccreeen(fullscreen/background)
 		-chanclazo UI 
 		 -textures
@@ -29,7 +29,14 @@ Art Assets:
 			-style(s?)
 			-color(s?)
 			-
-		 -FX
+		 - FX
+		 - ShaderGraph
+		-3D
+		 - Mobiliario
+		 - persjs.
+		 - stuff
+		 - chanclas
+		 - 
 	Sounds:
 		-Chanclazos
 		 - Wood
