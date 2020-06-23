@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Tittle Screen.unity
     guid: d1c3109bdb54ad54c8a2b2838528e640
   - enabled: 1
-    path: Assets/Scenes/Retest.unity
+    path: Assets/Scenes/Shooting.unity
     guid: dfd2f0ea65e260d4bb8f6c142f42dfc2
   m_configObjects: {}
